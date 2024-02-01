@@ -2,7 +2,7 @@
 class Utilisateur{
  
     private $conn;
-    private $table_name = "utilisateur";
+    private $table_name = "users";
  
     public $id;
     public $nom;
